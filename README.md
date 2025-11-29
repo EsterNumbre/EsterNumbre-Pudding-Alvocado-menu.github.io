@@ -1,2 +1,2 @@
-# EsterNumbre-Pudding-Alvocado-menu.github.io
+# Pudding-Alvocado-menu
 Tantangan SaCode's Weekend Membuat daftar menu mengunakan HTML &amp; CSS
